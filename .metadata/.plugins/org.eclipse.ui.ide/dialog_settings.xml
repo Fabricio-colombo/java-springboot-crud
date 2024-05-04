@@ -38,6 +38,8 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="E:\DESKTOP\java-springboot-crud\crud-springboot-h2"/>
+			<item value="E:\DESKTOP\crud-springboot-h2"/>
 			<item value="E:\DESKTOP\java-springboot-crud\crud"/>
 		</list>
 		<section name="SmartImportWizard.dialogBounds">
